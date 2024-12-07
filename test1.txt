@@ -1,1 +1,3 @@
 Selamat datang di GDGoC Universitas Hasanuddin
+
+Workshop git & github di kampus teknik universitas hasanuddin
