@@ -1,3 +1,8 @@
 Hello, World!
+<<<<<<< HEAD
 Welcome to Git.
 Let's learn Git.
+=======
+Let's learn Git.
+hahahaha
+>>>>>>> conflict
