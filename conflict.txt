@@ -1,3 +1,7 @@
 Hello, World!
 Welcome to Git.
 Let's learn Git.
+<<<<<<< HEAD
+=======
+hahahaha123
+>>>>>>> conflict
